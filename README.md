@@ -1,2 +1,2 @@
-# RPS
-Simple Rock Paper Scissors JavaScript Game
+# JS-RPS
+JavaScript: Rock, Paper, Scissors Game
